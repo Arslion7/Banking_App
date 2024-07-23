@@ -1,4 +1,4 @@
-# Bankist_App
+# Banking_App
 
 Use these account details:
 1. username: js
@@ -8,4 +8,4 @@ Use these account details:
    
    password: 2222
    
-https://arslion7.github.io/Bankist_App/
+https://arslion7.github.io/Banking_App/
